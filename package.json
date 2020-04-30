@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/swarnalats/npm_intro#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "react": "^16.8.6"
   },
   "devDependencies": {
